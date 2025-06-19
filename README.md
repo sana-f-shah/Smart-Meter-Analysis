@@ -14,7 +14,7 @@ cd smart-meter-forecasting
 
 python -m venv venv
 #### linux: source venv/bin/activate  
-##### windows: venv\Scripts\activate
+#### windows: venv\Scripts\activate
 
 ### 3. Install dependencies
 

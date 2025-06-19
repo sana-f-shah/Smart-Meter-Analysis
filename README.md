@@ -13,7 +13,7 @@ cd smart-meter-forecasting
 ### 2. Set up a virtual environment
 
 python -m venv venv
-#### linux: source venv/bin/activate  
+#### linux/macos: source venv/bin/activate  
 #### windows: venv\Scripts\activate
 
 ### 3. Install dependencies
